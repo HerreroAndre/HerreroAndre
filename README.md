@@ -40,7 +40,7 @@ I'm currently looking to grow as a **Junior Kotlin / Android Developer**, build 
 ## Links
 
 - GitHub: [HerreroAndre](https://github.com/HerreroAndre)
-- LinkedIn: [Andrés Herrero](www.linkedin.com/in/gustavo-andrés-herrero-6a8253288)
+- LinkedIn: [Andrés Herrero](https://www.linkedin.com/in/gustavo-andrés-herrero-6a8253288)
 
 ---
 ⭐ Feel free to explore my repositories and projects.
