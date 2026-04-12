@@ -2,7 +2,7 @@
 
 I'm a junior developer from Corrientes, Argentina, focused on **Kotlin** and **Android development**.
 
-I enjoy building mobile applications with **Jetpack Compose**, **MVVM**, **Room**, and clean, practical UI structures.  
+I enjoy building mobile applications  
 Right now, I'm focused on improving my skills through hands-on projects and continuing to grow as a developer.
 
 ## What I work with
@@ -10,11 +10,10 @@ Right now, I'm focused on improving my skills through hands-on projects and cont
 - Kotlin
 - Android
 - Jetpack Compose
-- MVVM
-- Room
+- Firebase
 - SQLite
 - REST APIs
-- Git & GitHub
+- Postman
 - Java
 - JavaScript
 - HTML / CSS
