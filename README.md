@@ -1,6 +1,6 @@
 # Hi, I'm Andrés Herrero 👋
 
-I'm a junior developer from Corrientes, Argentina, focused on **Kotlin** and **Android development**.
+I'm a developer from Corrientes, Argentina, focused on **Kotlin** and **Android development**.
 
 I enjoy building mobile applications.
 Right now, I'm focused on improving my skills through hands-on projects and continuing to grow as a developer.
