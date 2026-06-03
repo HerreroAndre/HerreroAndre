@@ -57,7 +57,7 @@ This project helped me practice:
 
 ## Goals
 
-I'm currently looking to grow as a **Junior Kotlin / Android Developer**, build solid real-world projects, and keep strengthening both my technical and professional skills.
+I'm currently looking to grow as a **Kotlin / Android Developer**, build solid real-world projects, and keep strengthening both my technical and professional skills.
 
 ## Links
 
