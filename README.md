@@ -9,11 +9,6 @@ Right now, I'm focused on improving my skills through hands-on projects and cont
 
 - Kotlin
 - Android
-- Jetpack Compose
-- Room
-- SQLite
-- MVVM architecture
-- Git / GitHub
 
 ## Academic & Project Experience
 
@@ -28,36 +23,12 @@ Technologies I have used during academic projects, personal projects, and practi
 - C#
 - .NET
 - SQL databases
+- Github
 
-## Featured Project
-
-### InitiativeTracker
-
-Android app for tracking combat initiative in tabletop RPGs, focused on **fast turn management**, **visual character identification**, and **local persistence**.
-
-**Tech stack:** Kotlin, Jetpack Compose, Room, MVVM
-
-This project helped me practice:
-
-- Android app architecture
-- Local database persistence
-- State management in Jetpack Compose
-- UI organization
-- CRUD operations
-- Project structure and code organization
-
-## Currently Improving
-
-- Android app architecture
-- UI design with Jetpack Compose
-- Local data persistence
-- API integration
-- Testing
-- Code organization
 
 ## Goals
 
-I'm currently looking to grow as a **Kotlin / Android Developer**, build solid real-world projects, and keep strengthening both my technical and professional skills.
+I'm currently looking to grow as a **Kotlin / Android Developer**, build solid real-world projects, and keep strengthening both my technical and professional skills, so I can live from this as I enjoy developing apps and webs that helps people in their daily life.
 
 ## Links
 
